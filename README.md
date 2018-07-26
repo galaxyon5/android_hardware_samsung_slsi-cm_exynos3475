@@ -1,1 +1,0 @@
-# android_hardware_samsung_slsi-cm_exynos3475-cm
